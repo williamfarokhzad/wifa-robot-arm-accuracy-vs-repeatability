@@ -2,6 +2,8 @@
 
 Analyze synthetic robot endpoint readings using Python. There is no robot connection, hardware dependency or third party package needed for the lab.
 
+Read the [full WIFA Robotics lesson](https://wifarobotics.com/learn/robot-arm-accuracy-vs-repeatability/) for the worked calculations, approach experiments and interpretation.
+
 ## Start here
 
 1. Install Python 3.10 or newer from [python.org](https://www.python.org/downloads/) or through your operating system.
